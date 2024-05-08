@@ -24,9 +24,7 @@ library(rstudioapi)
 </center>
 
 ### Weekly Recap 
-
-Kudos to eMOLT fisherman Joe Barrows (F/V Ryan Joseph) for agreeing to help 4-5 schools get their drifters in the water in the next few weeks.
-Joe is ideally fishes in Mass Bay so that these units have some chance of heading south towards Cape Cod Bay, an area of interest as of late.
+Kudos to a couple of eMOLT fisherman who have agreed to help us out with educational efforts this past week.  Joe Barrows (F/V Ryan Joseph out of Cohasset) agreed to get classroom-built drifters from 4-5 Boston-area schools in the water in the coming month. Joe fishes in Mass Bay so, ideally, these units have some chance of documenting Boston Harbor outflow towards Cape Cod Bay, always a interesting track. Dave Casoni (F/V Margaret M out of Sandwich) has agreed to come into the 3rd grade classroom in Dorchester with traps and live lobsters. There is no one better than Dave, a former school teacher, at this activity. This will be one class these third graders will not forget.
 
 ### Bottom Temperature Forecasts
 
