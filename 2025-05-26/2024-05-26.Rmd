@@ -1,0 +1,49 @@
+---
+title: "eMOLT Update"
+author: "George Maynard"
+date: "`r Sys.Date()`"  
+output: 
+  blastula::blastula_email:
+    toc: FALSE
+    toc_depth: 3
+    toc_float: TRUE
+    fig_caption: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(blastula)
+library(marmap)
+library(rstudioapi)
+```
+
+<center> 
+
+<font size="5"> *eMOLT Update `r Sys.Date()` * </font>
+
+</center>
+
+### Weekly Recap 
+The drifter program has been slowly returning from a Covid-era slump.  More than a dozen drifters have been deployed in the past month as seen below and updated routinely at [studentdrifters.org/track/drift_X.html](https://studentdrifters.org/track/drift_X.html). Kudos to the fishermen who have  helped us out with these educational efforts.   Dave Casoni (F/V Margaret M out of Sandwich) has came into the 3rd grade classroom in Dorchester with traps and live lobsters a few weeks ago. There is no one better than Dave, a former school teacher, at this activity. That will be one class these third graders will not forget! Joe Barrows (F/V Ryan Joseph out of Cohasset) agreed to get classroom-built drifters from 4-5 Boston-area schools in the water in the coming month. Joe fishes in Mass Bay so, ideally, these units have some chance of documenting Boston Harbor outflow towards Cape Cod Bay, always an interesting track. 
+![map of tracks the past month][drift_X.png]
+
+### Bottom Temperature Forecasts
+
+#### Northeast Coastal Ocean Forecast System (NECOFS)
+
+![NECOFS Forecast](NECOFS_GOM.gif){width=800px} 
+
+![Mass Bay Forecast](NECOFS_MABAY.gif){width=500px}
+
+#### Doppio Bottom Temperature Forecast
+
+Doppio bottom temperature forecasts over the last month have been pretty close to observations in Southern Maine, on the South Shore of Massachusetts, and east of New Jersey. Observations were warmer than forecasts around Plymouth, MA, and along the continental shelf south of Massachusetts. Observations were cooler than forecasts Downeast, outside of Provincetown, and south of Long Island. It will be interesting to see if additional data points Downeast help improve the forecast in that area as the year progresses.   
+
+![Doppio Forecast](DOPPIO_forecast_F.gif){width=800px} 
+
+![Doppio performance plot](doppio_compare.png)
+
+
+All the best,
+
+-George and JiM
